@@ -1,0 +1,19 @@
+h1{
+  margin-bottom: 0.9rem;
+}
+
+#highScoreList {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2rem;
+}
+
+.high-score {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  color: #888;
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+}
